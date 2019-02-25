@@ -1,0 +1,5 @@
+﻿  Source.cpp
+f:\dellpulpit\paradygmatyijprog\project1z1\project1z1\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+f:\dellpulpit\paradygmatyijprog\project1z1\project1z1\source.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\dellpulpit\paradygmatyijprog\project1z1\project1z1\source.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1Z1.vcxproj -> F:\DellPulpit\ParadygmatyIJProg\Project1Z1\Debug\Project1Z1.exe
